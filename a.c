@@ -1,1 +1,1 @@
-int a,,ggggsssssssssss;
+int a,mas,ggggg
